@@ -1,4 +1,5 @@
 {
+    "id": "ska-server-folders",
     "name": "SKA Server Folders",
     "description": "Allows users to organize servers into folders on the dashboard.",
     "version": "1.0.0",
